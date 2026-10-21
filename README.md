@@ -40,7 +40,7 @@ I'm a Computer Science graduate passionate about building software applications 
 ### 📌 Featured Projects
 
 - 🎮 **Restaurant Simulation Game** — Developing a restaurant management game in Unity using C#, object-oriented programming, and custom gameplay systems.
-- 📱 **Campus Mobile App** — An Android application featuring student login, profiles, subject schedules, and campus navigation.
+- 📱 **Employee Leave Management System** — A web application designed to assist employees to manage leave requests.
 - 📚 **SEEK: Library Assistance System** — A web-based library system designed to assist library users and support sign-language communication.
 
 ### 🎯 Current Goals
