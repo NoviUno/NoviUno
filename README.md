@@ -9,7 +9,7 @@ I'm a Computer Science graduate passionate about building software applications 
 - Computer Science graduate from Cagayan State University
 - Interested in software development, backend development, and mobile game development
 - Currently learning **Express.js and Vue.js**
-- Developing a restaurant simulation game using **Unity and C#** and creating assets using Adobe Photoshop and Blender3d
+- Currently developing a restaurant simulation game using **Unity and C#** and creating assets using Adobe Photoshop and Blender3d
 - Building personal projects to apply what I learn and improve my coding skills
 - Always eager to learn new technologies and best practices in software development
 
@@ -36,12 +36,6 @@ I'm a Computer Science graduate passionate about building software applications 
 - Unity3D
 - Trello
 - Figma
-
-### 📌 Featured Projects
-
-- 🎮 **Restaurant Simulation Game** — Developing a restaurant management game in Unity using C#, object-oriented programming, and custom gameplay systems.
-- 📱 **Employee Leave Management System** — A web application designed to assist employees to manage leave requests.
-- 📚 **SEEK: Library Assistance System** — A web-based library system designed to assist library users and support sign-language communication.
 
 ### 🎯 Current Goals
 
